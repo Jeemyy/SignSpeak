@@ -12,7 +12,7 @@
                     {{ __("You're logged in!") }}
                     <input type="button" value="Click Me to Home page"
                         class="bg-blue-500 text-white font-bold py-2 px-4 rounded hover:bg-blue-700"
-                        onclick="window.location.href='/'" />
+                        onclick="window.location.href='/dashboard/home'" />
                 </div>
             </div>
         </div>

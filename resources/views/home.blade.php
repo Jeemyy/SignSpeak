@@ -160,9 +160,9 @@
               <span><i class="fa-solid fa-arrow-right"></i></span>
               Text</span> &gt;</a>
           </div>
-        </div>  
+        </div>
       </main>
-      <spline-viewer class="robot-3d-1" url="https://prod.spline.design/fXa0FXm76Z3Zl-vd/scene.splinecode"></spline-viewer>    
+      <spline-viewer class="robot-3d-1" url="https://prod.spline.design/fXa0FXm76Z3Zl-vd/scene.splinecode"></spline-viewer>
     </section>
 
     <section class="sec4">
@@ -193,11 +193,11 @@
               <span><i class="fa-solid fa-arrow-right"></i></span>
               Text</span> &gt;</a>
           </div>
-        </div>  
+        </div>
       </main>
-      <spline-viewer class="robot-3d-2" url="https://prod.spline.design/C-t82yr86uqOqiVC/scene.splinecode"></spline-viewer>    
+      <spline-viewer class="robot-3d-2" url="https://prod.spline.design/C-t82yr86uqOqiVC/scene.splinecode"></spline-viewer>
     </section>
-    
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/three/examples/js/loaders/GLTFLoader.js"></script>
     <script src="../Js/home.js"></script>
